@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jerald-cell
-- 👀 I’m interested in just about anything to do with working and of course software development.
+- 👀 I’m interested in just about anything to do with software development.
 - 🌱 I’m currently learning more about using canvas.js, svg.js, react.js, and node.js. I've got extensive knowledge with Java, Javascript, C, C++, HTML, CSS, etc. I love building
 robust reactive UI's and applications for users. Helping solve a problem with a software solution highly motivates me. My drive for helping others is unparralled,
 I love to lead, learn, and develop as much as I can.
